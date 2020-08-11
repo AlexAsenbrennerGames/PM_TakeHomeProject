@@ -4,7 +4,7 @@
 
 First open up Powershell to the APITest/APITest folder, you should see the Dockerfile
 
-Then run ```docker build -t take_home_project .``` (Don't foreget the period)
+Then run ```docker build -t take_home_project .``` (Don't forget the period)
 
 Once that completes run ```docker run -d -p 8080:80 --name take_home_project_app take_home_project```
 
