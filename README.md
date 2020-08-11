@@ -12,8 +12,11 @@ Once that completes the service should be up and running on http://localhost:808
 
 ### The available APIs for this project are
 GET http://localhost:8080/api/Leaderboards/GetAllLeaderboards
+
 POST http://localhost:8080/api/Leaderboards/CreateLeaderboard
+
 POST http://localhost:8080/api/Leaderboards/AddEntriesToLeaderboard
+
 POST http://localhost:8080/api/Leaderboards/GetTopNLeaderboardEntries
 
 ### TDD for this project
